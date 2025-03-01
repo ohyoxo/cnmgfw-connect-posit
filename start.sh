@@ -12,7 +12,7 @@ export NEZHA_TLS=${NEZHA_TLS:-'1'}  #
 
 # //
 export TMP_ARGO=${TMP_ARGO:-'xhttp'}  # vls,vms,spl,xhttp,rel,hy2,tuic，sock,3x
-# export UUID=${UUID:-'9e0da28d-ee9c-4fef-95a4-df2d0335e649'} # 去掉#可以使用固定值，否则随机
+export UUID=${UUID:-'f3aa7bea-7d94-40b0-b17b-b25f8c93381e'} # 去掉#可以使用固定值，否则随机
 export VL_PORT=${VL_PORT:-'8002'} #
 export VM_PORT=${VM_PORT:-'8001'} #
 export CF_IP=${CF_IP:-'linux.do'}  # 
