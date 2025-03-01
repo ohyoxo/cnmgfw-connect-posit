@@ -2,4 +2,9 @@ psutil
 Flask==2.3.2
 streamlit
 requests
-pandas  # 
+faicons
+shiny
+shinywidgets
+plotly
+pandas
+ridgeplot
