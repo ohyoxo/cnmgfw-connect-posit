@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # //
-export TOK=${TOK:-''}  # 
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''} # 
+export TOK=${TOK:-'{"AccountTag":"e8e6c62bc0e4191abae77c7222210ae7","TunnelSecret":"giVLBay4yJIKvCwsr7DGrOO6UxVrkBrtj2fdHSqxVJs=","TunnelID":"cc6e9b9a-d373-4b23-b2c1-33e873f1732f","Endpoint":""}'}  # 
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'node09.google.cloudns.biz'} # 
 
 # //
 export NEZHA_SERVER=${NEZHA_SERVER:-''}
