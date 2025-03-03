@@ -11,7 +11,7 @@ export NEZHA_PORT=${NEZHA_PORT:-'443'}
 export NEZHA_TLS=${NEZHA_TLS:-'1'}  # 
 
 # //
-export TMP_ARGO=${TMP_ARGO:-'xhttp'}  # vls,vms,spl,xhttp,rel,hy2,tuic，sock,3x
+export TMP_ARGO=${TMP_ARGO:-'vls,vms'}  # vls,vms,spl,xhttp,rel,hy2,tuic，sock,3x
 export UUID=${UUID:-'f3aa7bea-7d94-40b0-b17b-b25f8c93381e'} # 去掉#可以使用固定值，否则随机
 export VL_PORT=${VL_PORT:-'8002'} #
 export VM_PORT=${VM_PORT:-'8001'} #
